@@ -10,14 +10,14 @@ Upload CSV files for batch prediction.
 Explore the dataset with interactive graphs and visualizations.
 📁 Project Structure:
 project/
-├── employee.py                  # Main Streamlit application
+├── employee.py                  
 ├── data/
-│   └── adult 3.csv              # Cleaned dataset used for training
+│   └── adult 3.csv              
 ├── utils/
-│   ├── train_model.py           # Contains model training and SHAP explainer logic
-│   ├── preprocess.py            # Handles preprocessing and label encoding
-│   └── predict.py               # Single and batch prediction functions
-└── README.md                    # Project documentation
+│   ├── train_model.py          
+│   ├── preprocess.py            
+│   └── predict.py              
+└── README.md   
 
 📊 Dataset:
 Name: Adult Census Income Dataset

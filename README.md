@@ -8,7 +8,9 @@ Generate a downloadable PDF report of the prediction.
 Upload CSV files for batch prediction.
 
 Explore the dataset with interactive graphs and visualizations.
+
 📁 Project Structure:
+
 project/
 ├── employee.py                  
 ├── data/
